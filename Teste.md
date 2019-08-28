@@ -6,7 +6,6 @@ content: teste
 media:
   image: "/uploads/2018/06/21/drone-photo.jpeg"
   alt_text: ''
-published: false
 
 ---
 Teste
